@@ -1,4 +1,1 @@
-# Prints hello
-print("Hello")
-
-# Neue Zeile
+print("Hello, Welt!")
